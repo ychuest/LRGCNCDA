@@ -18,7 +18,7 @@ along with this program; if not, see <http://www.gnu.org/licenses/>.
 
 
 # LRGCNCDA
-LRGCNCDA, which effectively predicts the association between circRNA and disease, is method based on layer-refined graph convolutional networks.
+LRGCNCDA, which effectively predicts the association between circRNA and disease, is a method based on layer-refined graph convolutional networks.
 
 
 
